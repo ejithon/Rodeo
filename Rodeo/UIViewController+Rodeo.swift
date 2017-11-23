@@ -16,11 +16,11 @@ public protocol Rodeo {
 }
 
 extension UIViewController: Rodeo {
-    open static var storyboardIdentifier: String {
+    public static var storyboardIdentifier: String {
         return String(describing: self)
     }
 
-    open static var storyboardName: String {
+    public static var storyboardName: String {
         return storyboardIdentifier.replacingOccurrences(of: "ViewController", with: "")
     }
 }
