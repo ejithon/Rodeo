@@ -2,8 +2,8 @@
 //  UIView+Rodeo.swift
 //  Rodeo
 //
-//  Created by Yukio Ejiri on 2017/09/21.
-//  Copyright © 2017年 Yukio Ejiri. All rights reserved.
+//  Created by ejithon on 2017/09/21.
+//  Copyright © 2017 ejithon. All rights reserved.
 //
 
 import Foundation
