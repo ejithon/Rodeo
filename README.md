@@ -13,7 +13,7 @@ Easy to instantiate UIViewController from Storyboard.
 
 Make sure your Storyboard file name is the same string without `ViewController`.
 ```
-MainViewController -> Main.storyboard
+YourViewController -> Your.storyboard
 ```
 
 Set `Storyboard ID` to same as the your ViewController class name.
